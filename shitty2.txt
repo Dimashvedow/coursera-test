@@ -1,0 +1,5 @@
+Fucking shit
+mkdir site = make a directory
+dir = what's in dir 
+cd .. = upper directory
+cd nameofdirectory = enter directory
